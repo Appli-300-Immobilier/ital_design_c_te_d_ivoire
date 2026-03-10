@@ -1,11 +1,11 @@
-# To-Do List for Ital Design C�te d'Ivoire Website
+# To-Do List for Ital Design Céte d'Ivoire Website
 
 ## Project Overview
-- **Company Name:** Ital Design C�te d'Ivoire
+- **Company Name:** Ital Design Céte d'Ivoire
 - **Directory:** ital_design_c_te_d_ivoire
 - **Address/Contact:** 
-  - Plateau, Avenue Nogu�s en Face R�sidence Nabil et Air France, Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Plateau, Avenue Nogués en Face Résidence Nabil et Air France, Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - +225 20 00 77 00
 - **Description:** https://www.facebook.com/profile.php?id=100054363227498
@@ -24,7 +24,7 @@
 ### 2. Configuration
 - [ ] Update package.json:
   - Name: ital-design-c-te-d-ivoire  - Version: 0.1.0- [ ] Update index.html:
-  - Title: Ital Design C�te d'Ivoire  - Meta description: https://www.facebook.com/profile.php?id=100054363227498...
+  - Title: Ital Design Céte d'Ivoire  - Meta description: https://www.facebook.com/profile.php?id=100054363227498...
 ### 3. Branding & Content
 - [ ] **Logo:** 
   - Source: Create a placeholder logo  - Action: Copy to src/assets/logo.png (or svg).
@@ -40,7 +40,7 @@ theme.extend.colors.primary to match the brand.
 
 ### 4. Content Integration
 - [ ] **Home Page (src/pages/public/Home.jsx):
-  - Replace the hero title with "Ital Design C�te d'Ivoire".
+  - Replace the hero title with "Ital Design Céte d'Ivoire".
   - Update the subtitle with: "https://www.facebook.com/profile.php?id=100054363227498".
   - Update "Featured Products" if specific images/products are provided (currently using mock data).
 - [ ] **About Page (src/pages/public/About.jsx):
