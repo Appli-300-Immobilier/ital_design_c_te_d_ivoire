@@ -4,11 +4,9 @@
 - **Company Name:** Ital Design Céte d'Ivoire
 - **Directory:** ital_design_c_te_d_ivoire
 - **Address/Contact:** 
-  - Plateau, Avenue Nogués en Face Résidence Nabil et Air France, Abidjan, Céte d'Ivoire
-  - Coordonnées
-  - 
-  - +225 20 00 77 00
-- **Description:** https://www.facebook.com/profile.php?id=100054363227498
+  - Abidjan, Côte d'Ivoire
+  - +225 200 077 00
+- **Description::** https://www.facebook.com/profile.php?id=100054363227498
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 

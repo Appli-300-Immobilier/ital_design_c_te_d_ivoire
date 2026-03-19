@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Ital Design C�te d'Ivoire**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 20 00 77
+* **Contact :** +225 200 077 00
 * **Email :** contact@italdesignctedivoire.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/237225200077)
 
